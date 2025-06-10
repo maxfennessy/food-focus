@@ -1,0 +1,5 @@
+.env
+__pycache__
+frontend/dist
+frontend/node_modules
+backend/data/brandedDownload.json
